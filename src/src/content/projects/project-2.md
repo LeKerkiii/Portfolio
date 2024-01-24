@@ -1,8 +1,8 @@
 ---
 inProgress: false
-title: Sort-Preview
-description: Eine Demonstration von verschiedenen Sortier-Algorythmen
+title: Portfolio Webseite
+description: Eine Portfolio Webseite um mich zu repräsentieren
 img_alt: project image alt text
-link: https://github.com/
-tags: ['HTML', 'CSS', 'Javascript']
+link: https://github.com/LeKerkiii/Portfolio
+tags: ['HTML', 'CSS', 'Javascript', 'Astro', 'Node JS']
 ---
