@@ -1,8 +1,8 @@
 ---
 inProgress: false
-title: Portfolio Webseite
-description: Eine Portfolio Webseite um mich zu repräsentieren
+title: Sorting Viewer
+description: Ein einfaches Projekt zum demonstrieren von Sortierungen
 img_alt: project image alt text
-link: https://github.com/LeKerkiii/Portfolio
-tags: ['HTML', 'CSS', 'Javascript', 'Astro', 'Node JS']
+link: https://github.com/LeKerkiii/SortingViewer
+tags: ['HTML','CSS','Javascript','Bootstrap']
 ---
