@@ -1,8 +1,8 @@
 ---
-inProgress: true
-title: Kommt bald
-description: Weitere Projekte werden in kürze hinzugefügt
+inProgress: false
+title: FPS-Kniffel
+description: Eine Shooter-Version von Kniffel
 img_alt: project image alt text
-link: https://github.com/LeKerkiii
-tags: ['GitHub']
+link: https://github.com/LeKerkiii/FPS-Kniffel
+tags: ['Godot','Python','Multiplayer']
 ---
